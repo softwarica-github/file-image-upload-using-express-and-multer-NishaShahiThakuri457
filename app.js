@@ -59,6 +59,7 @@ else{
 	if(req.file == undefined){
 		res.render('index',{
 			msg : 'Error: File is not selected!'
+		}
 		});
 	}
 
