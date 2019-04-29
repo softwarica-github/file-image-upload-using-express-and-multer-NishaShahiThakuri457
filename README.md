@@ -1,12 +1,11 @@
-->This is a application that save images and files inside this directory which is created by GitHub classroom Nisha Shahi Thakuri from 19C which make use of Multer,EJS,Jquery,body-parse and express in the project as per required. 
+Uploading image into folder using Multer library
 
-->To run this application all we need is to clone repository and install node js and after installing that some of the dependencies is done to fetch the application;
-
-npm install express --save
-npm install multer --save
-npm install body-parser --save
-and all the dependencies are execute in a node application.js
-
-->Server used:localhost:3000
+1.Project folder created.
+2.EJS installed.
+3.Express framework installed.
+4.Multer library for file handling is installed.
+5.Resources folder are separated using CSS,JS,Body-parser.
+6.JQuery and Ajax are used in the project.
+7.Server used:localhost:3000
 
 
